@@ -1,6 +1,6 @@
 # Sympla Scraper
 
-Esse projeto é um web scraper que coleta informações de eventos no site da Sympla. Ele foi desenvolvido como parte do processo seletivo para a vaga de estágio em desenvolvimento de software na empresa [Acorn Advisory](https://acornad.com.br/).
+Esse projeto é um web scraper que coleta informações de eventos no site da Sympla.
 
 ## Como funciona
 
