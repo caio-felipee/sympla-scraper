@@ -52,6 +52,10 @@ O arquivo executável gerado para Linux está disponível na pasta `dist` do pro
 
 O arquivo executável para Linux foi gerado em um ambiente Ubuntu 22.04.
 
+### Troubleshooting
+
+Caso o executável esteja abrindo e fechando rapidamente, quer dizer que a sua "tarefa" foi finalizada. Isso pode significar que as categorias mencionadas em `categorias.csv` são pequenas ou o arquivo não foi encontrado.
+
 ## Gerando um executável
 
 Para gerar um arquivo executável, é necessário ter o PyInstaller instalado. Para instalá-lo, execute o seguinte comando:
